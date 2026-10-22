@@ -1,4 +1,4 @@
-Code accompanying A gauge-invariant clustering coefficient for complex-weighted bipartite networks.
+Code accompanying A gauge-invariant clustering coefficient for complex-weighted bipartite networks (arXiv:2610.11929).
 
 
 Code_Complex_Bipartite_Networks.ipynb contains the computations behind Theorem 11, Corollary 12 and Lemma A.1, and the four checks reported in Appendix C.3:
